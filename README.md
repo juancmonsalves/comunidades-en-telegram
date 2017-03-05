@@ -66,7 +66,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://te
 | Ruby                   | @andres_code - @highercomve - @hipsss | https://telegram.me/ruby_ve                |
 | SEO                    | @oteroweb          | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ           |
 | Security VE            | @coffeenights      | https://telegram.me/itsec_ve                                  |
-| SIGESP                 | @jcmonsalves       | https://telegram.me/joinchat/AHyMowqPQ7FfALxvmmPvkQ           |
+| SIGESP                 | @jcmonsalves       | https://t.me/joinchat/AAAAAEI9Ajku0JwdPPmTyw           |
 | ST.ve                  | @Tur3c0            | https://telegram.me/st3_ve                                    |
 | Symfony                |                    | https://telegram.me/symfonyVe                                 |
 | SysAdminVE             | @arawako           | https://telegram.me/SysAdminVE                                |
